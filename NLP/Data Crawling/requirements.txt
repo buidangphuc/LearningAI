@@ -1,0 +1,6 @@
+pandas
+numpy
+tqdm
+requests
+webdriver-manager
+selenium
