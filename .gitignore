@@ -164,3 +164,12 @@ cython_debug/
 *.pt
 *_dataset/
 *.csv
+*.txt
+*.zip
+*.jpg
+*.png
+*.xml
+*.yaml
+
+# License
+LICENSE
